@@ -1,9 +1,9 @@
 # robot-simulation
 Robotic simulation using Matlab with graphical plot using as a basis the Adriano UFRJ truck project.
 
-![@robot-simulation1](http://uploads.im/4gkMZ.jpg)
+![@robot-simulation1](http://sk.uploads.im/t/4gkMZ.jpg)
 
-![@robot-simulation2](http://uploads.im/vipIm.jpg)
+![@robot-simulation2](http://sl.uploads.im/t/vipIm.jpg)
 
 
 
