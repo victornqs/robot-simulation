@@ -1,6 +1,6 @@
 clf;
 hold on;
-%Universo de discurso
+%Universo de discurso principal
 xi = 0; xf = 200; yi = 0; yf = 100; RObjeto=2.5;
 axis([xi xf yi-40 yf+40]);
 plot([xi xf xf xi xi],[yi yi yf yf yi]);
